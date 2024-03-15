@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[12],{324:function(t,n,s){"use strict";s.r(n);var e=s(7),o=Object(e.a)({},(function(){var t=this._self._c;return t("ContentSlotsDistributor",{attrs:{"slot-key":this.$parent.slotKey}},[t("p",[this._v("请让我将我所看到的，我所听到的，我所感兴趣的，我所热烈的爱着的，我常常忘却的世界与生命的绽放写下来吧，那必是一段不朽的传奇！\n——–闻新")])])}),[],!1,null,null,null);n.default=o.exports}}]);
